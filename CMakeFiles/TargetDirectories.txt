@@ -1,0 +1,3 @@
+/home/wujiayi/文档/GitHub/test/CMakeFiles/rebuild_cache.dir
+/home/wujiayi/文档/GitHub/test/CMakeFiles/test.dir
+/home/wujiayi/文档/GitHub/test/CMakeFiles/edit_cache.dir
